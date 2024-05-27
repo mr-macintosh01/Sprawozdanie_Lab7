@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+      "express": "*"
+    },
+    "scripts": {
+        "build": "echo 'building'"
+    }
+}
